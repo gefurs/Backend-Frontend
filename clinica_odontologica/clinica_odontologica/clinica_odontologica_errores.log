@@ -1,0 +1,2 @@
+[2022-04-16 23:03:24] [ERROR] [GlobalExceptions:22] El paciente o el odontólogo no existen. No se puede crear el turno.
+[2022-04-16 23:08:25] [ERROR] [GlobalExceptions:16] El paciente con id: 11 no existe. No se puede eliminar.
